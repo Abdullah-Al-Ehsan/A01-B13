@@ -56,7 +56,7 @@
 
 
 
-/* banner css */
+/* banner er css */
 
 .banner{
     background-image: url("/assets/hero-bg.png");
@@ -144,4 +144,57 @@
 .banner-content .banner-btnContent #transparent-btn:hover{
     color: red;
 }
+
+
+
+/*  note section er css*/
+
+.note{
+    width: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.note-container{
+    max-width: 1600px;
+    height: 448px;
+
+}
+
+
+
+.note-container .note-header{
+   padding-top: 75px;
+   padding-bottom: 5px;
+   text-align: center;
+   border: 1px solid red;
+   margin-bottom: 44px;
+}
+.note-container .note-header h1{
+    font-size: 48px;
+    font-weight: 700px;
+}
+
+.note-container .note-header p{
+      font-size: 16px;
+      color: #637282;
+      margin-top: 16px;
+}
+
+
+.note-container .note-card{
+    display: flex;
+    gap: 24px;
+}
+
+
+.note-container .note-card .card{
+    width: 322px;
+    height: 300px;
+    border-radius: 8px;
+    padding: 24px;
+}
+
+
 
