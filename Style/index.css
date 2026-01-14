@@ -306,3 +306,52 @@
          gap: 12px;   
          margin-bottom: 16px;               
 }
+
+
+
+
+
+/* early accces er css */
+
+
+.earlyAccess{
+    padding: 2px 120px 120px 120px;
+    text-align: center;
+    align-items: center;
+}
+
+
+.earlyAccess-container{
+    padding: 80px 40px;
+    background-color: #F7F6F2;
+}
+
+ .earlyAccess-content h1{
+    font-size: 40px;
+    font-weight: 700;
+    color: #001931;
+    margin-bottom: 16px;
+}
+
+
+.earlyAccess-content p{
+    font-size: 14px;
+    line-height: 20px;
+    color: #627382;
+    margin: 0px 40px;
+    max-width: 540px;   
+    margin: 0 auto;       
+    text-align: center;
+}
+
+
+.earlyAccess-container .earlyAccess-btn{
+    margin-top: 24px;
+    margin-bottom: 16px;
+}
+
+.earlyAccess-container .under-btn p{
+    font-size: 14px;
+    line-height: 20px;
+    color: #627382;
+}
