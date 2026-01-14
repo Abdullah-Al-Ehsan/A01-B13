@@ -240,3 +240,69 @@
 }
 
 
+
+
+
+/* brain section er css*/
+
+.brain{
+    padding: 120px 0px;
+}
+
+.brain .brain-container{
+    padding: 0px 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.brain-container .brain-content{
+    width: 700px;
+    height: 390px;
+    margin: 102px 0px 102px 60px;
+}
+
+
+.brain-container .brain-content .first-half{
+    margin-bottom: 40px; 
+}
+
+
+.brain-container .brain-content .first-half h4{
+        font-size: 14px;
+        line-height: 20px;
+        color: #30B868;
+        margin-bottom: 16px;
+}
+
+.brain-container .brain-content .first-half h1{
+        font-size: 48px;
+        color: #001931;
+}
+
+.brain-container .brain-content .first-half .heading-text{
+        margin-bottom: 16px;
+}
+
+
+.brain-container .brain-content .first-half p{
+        font-size: 14px;
+        line-height: 20px;
+        color: #627382;
+}
+
+
+
+
+.brain-container .brain-content .second-half{
+        height: 128px;
+        width: 700px;
+}
+
+.brain-container .brain-content .second-half h4{
+         display: flex;             
+         align-items: center; 
+         gap: 12px;   
+         margin-bottom: 16px;               
+}
